@@ -1,0 +1,51 @@
+.ns{
+    color: #F2F4B2;
+    font-size: 1.5cm;
+  align-items: center;
+  font-family: Comic Sans Ms;
+}
+
+body{
+    background-color: white;
+}
+
+.hr{
+  color: black;
+  border-color: black;
+  border-style: solid;
+}
+
+.quotations{
+ border: 2;
+ border-style: groove;
+ border-color: black;
+ margin: 1cm; 
+padding: 0.5cm;
+display: flex;
+flex-wrap: wrap;
+flex-basis: 100%;
+justify-content: space-evenly;
+background-color: #F03A17 ;
+border-radius: 1cm;
+}
+
+.eachqu{
+flex-basis: 33%;
+margin: 0.5cm;
+}
+
+#bodr{
+  border-style: solid;
+  border-radius: 1cm;
+}
+
+
+.footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#jij{
+color: blue;
+}
